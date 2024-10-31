@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367270290274",
+    "project_id": "fir-interfaces-77188",
+    "storage_bucket": "fir-interfaces-77188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367270290274:android:7c38d56a3fded8a499423b",
+        "android_client_info": {
+          "package_name": "es.iesjandula.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367270290274-e8ba286639b50c48fop11lfpd4ptoo5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRrRfEfT5ULSBzIUeymGnZmk5wT0S62fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367270290274-e8ba286639b50c48fop11lfpd4ptoo5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
